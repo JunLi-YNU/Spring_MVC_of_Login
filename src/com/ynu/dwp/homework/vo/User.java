@@ -1,5 +1,10 @@
 package com.ynu.dwp.homework.vo;
 
+/**
+ * 用户的实体类
+ * @author 12068
+ *其中包含的参数有用户ID、用户姓名、用户密码
+ */
 public class User {
 	
 	private int id;
